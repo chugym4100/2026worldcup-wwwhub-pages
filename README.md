@@ -1,2 +1,14 @@
 # 2026worldcup-wwwhub-pages
-HTML page archive and documentation
+
+页面托管与归档说明
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
